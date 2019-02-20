@@ -1,4 +1,5 @@
-#LIBRARY CARPENTRY
+#LIBRARY CARPENTRY#
+
 ##Općenito o Library Carpentry
 Library Carpentry razvija lekcije i organizira radionice za osobe koje rade u knjižnicama ili u poslu koji se povezan sa informacijskim ulogama. Cilj Library Carpentry je stvoriti odskočnu dasku koja nastoji osnažiti informacijsku zajednicu na način da svladaju korištenje softvera, ali i da usavrše rad sa podatcima i njihovim strukturama. Radionice Library Carpentrya sastoje se od lekcija, a postoji ih nekoliko. Voditelji radionica odnosno instruktori, kao i učenici moraju slijediti pravila o ponašanju unutar Library Carpentry. 
 
